@@ -1,0 +1,75 @@
+# Copyright (C) 2024 BusinessOnBot
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: BusinessOnBot 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/businessonbot\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-07T00:03:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: businessonbot\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#. translators: Plugin name.
+#: businessonbot.php
+#: businessonbot.php:207
+msgid "BusinessOnBot"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: businessonbot.php
+msgid "https://businessonbot.com/"
+msgstr ""
+
+#. Description of the plugin
+#: businessonbot.php
+msgid "BusinessOnBot is the ultimate solution for D2C brands to acquire new users on WhatsApp & Instagram. Trusted by 500+ brands, we offer seamless integration, omni-channel support, ad integration, and smart automation."
+msgstr ""
+
+#. Author URI of the plugin
+#: businessonbot.php
+msgid "https://businessonbot.com"
+msgstr ""
+
+#. translators: Plugin name.
+#: businessonbot.php:207
+msgid "%s is inactive."
+msgstr ""
+
+#. translators: %1$s inactive plugin text, %2$s minimum PHP version
+#: businessonbot.php:211
+msgid "%1$s The plugin requires PHP version %2$s or newer."
+msgstr ""
+
+#. translators: %1$s inactive plugin text, %2$s minimum WooCommerce version
+#: businessonbot.php:215
+msgid "%1$s The plugin requires WooCommerce version %2$s or newer."
+msgstr ""
+
+#. translators: %1$s inactive plugin text, %2$s minimum WordPress version
+#: businessonbot.php:219
+msgid "%1$s The plugin requires WordPress version %2$s or newer."
+msgstr ""
+
+#: businessonbot.php:1224
+msgid "Configure timeout (in minutes) for cart and product to be considered abandoned."
+msgstr ""
+
+#: businessonbot.php:2014
+msgid "This order was abandoned & subsequently recovered."
+msgstr ""
+
+#: includes/businessonbot-functions.php:116
+msgid "Saving your email and cart details helps us keep you up to date with this order."
+msgstr ""
+
+#: includes/class-businessonbot-common.php:149
+#: includes/class-businessonbot-common.php:166
+msgid "Discount code applied successfully."
+msgstr ""
